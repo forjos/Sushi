@@ -1,0 +1,299 @@
+
+
+a:hover
+{
+    text-decoration: none;
+}
+
+.number
+{
+    float: right;
+}
+
+.menu
+{
+    float: left;
+}
+
+.logo
+{
+    width: 50px;
+    float: left;
+}
+
+.ferstblock
+{
+    height: 340px;
+    background-color: #d5d5d5;
+    padding-top: 20px;
+}
+
+.telephon
+{
+    height: 290px;
+    background-color: #e3e3e3;
+    border: 2px solid;
+    max-width: 165px;
+}
+
+.sliderfirstblock
+{
+    background-color: #ffffff;
+    max-width: 920px;
+    height: 290px;
+}
+
+.korzina
+{
+    background-color: #c5c5c5;
+    height: 179px;
+    text-align: center;
+    max-width: 165px;
+}
+
+.product
+{
+    background-color: #f1f1f1;
+    padding-left: 10px;
+    width: 212px;
+    height: 210px;
+    padding-right: 10px;
+    margin-top: 0px;
+    padding-top: 10px;
+}
+
+.ceni
+{
+    float: right;
+}
+
+.inkorzinu
+{
+    float: right;
+    clear: right;
+    margin-top: 5px;
+}
+
+.btnprilozhenie
+{
+    border-radius: 0px;
+    width: 100%;
+    position: relative;
+    top: 162px;
+}
+
+.skidkaprilozhenie
+{
+    margin-top: 40px;
+    width: 130px;
+    margin-left: 20px;
+}
+
+.namesushi
+{
+    margin-top: 0px;
+}
+
+.divproduct
+{
+    width: 212px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.categories
+{
+    float: left;
+    margin-right: 11px;
+    margin-top: 20px;
+}
+
+.newdiv
+{
+    background-color: #e1e1e1;
+    padding: 1px 10px 10px;
+    float: left;
+    margin-right: 11px;
+    margin-top: 40px;
+    width: 295px;
+    margin-bottom: 40px;
+}
+
+.newhead
+{
+    font-size: 15px;
+}
+
+.footer
+{
+    background-color: #d5d5d5;
+    padding-top: 20px;
+}
+
+.phonenumber
+{
+    font-size: 21px;
+}
+
+.social
+{
+    font-size: 20px;
+    float: left;
+    border: 2px solid gray;
+    border-radius: 40px;
+    padding: 20px;
+    margin-right: 10px;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+}
+
+.discountfooter
+{
+    font-size: 30px;
+    margin-top: 56px;
+}
+
+.store
+{
+    font-size: 20px;
+    float: left;
+    width: 200px;
+    background-color: #878787;
+    color: #f9f9f9;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.prodaction
+{
+    margin-top: 140px;
+}
+
+.sticky-content
+{
+}
+
+.sticky-content.fixed
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.sticky-content.fixed
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+}
+
+.divmodal
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.modaldivcont
+{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 580px;
+}
+
+.imgmodal
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btnmodal
+{
+    float: right;
+    clear: right;
+}
+
+.pricemodal
+{
+    font-size: 20px;
+    position: static;
+    float: right;
+}
+
+.modakdivhead
+{
+    width: 600px;
+}
+
+.menudiv
+{
+    margin-bottom: 0px;
+}
+
+.divcatalog
+{
+    display: block;
+    clear: both;
+}
+
+.divnews
+{
+    display: block;
+    clear: both;
+}
+
+.divprod
+{
+    display: block;
+    clear: both;
+}
+
+.divcontshop
+{
+    display: block;
+    clear: both;
+}
+
+@media screen and (max-width:733px)
+{
+    .divproduct
+    {
+        display: block;
+        margin-right: 5px;
+    }
+}
+
+@media screen and (max-width:688px)
+{
+    .divproduct
+    {
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        float: none;
+    }
+}
+
+.old
+{
+    float: right;
+    font-size: 16px;
+}
+
+.new
+{
+    float: right;
+    font-size: 16px;
+}
+
