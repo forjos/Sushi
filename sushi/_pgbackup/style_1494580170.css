@@ -17,8 +17,8 @@ a:hover
 
 .logo
 {
+    width: 50px;
     float: left;
-    width: 60px;
 }
 
 .ferstblock
@@ -332,14 +332,5 @@ a:hover
     float: right;
     margin-right: 5%;
     font-size: 20px;
-    margin-bottom: 0px;
-}
-
-.timework
-{
-    float: right;
-    margin-right: 5%;
-    clear: right;
-    margin-top: 0px;
 }
 
